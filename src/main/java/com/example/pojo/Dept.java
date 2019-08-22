@@ -4,6 +4,6 @@ public class Dept {
     private int deptId;
     private String deptName;
     private int Id;
-    pvateri int age;
-
+    prateri int age;
+    private int IDD;
 }
