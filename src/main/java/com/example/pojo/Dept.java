@@ -7,4 +7,5 @@ public class Dept {
     private int age;
     private int IDD;
     private int String;
+    private boolean f;
 }
